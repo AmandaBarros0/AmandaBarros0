@@ -1,4 +1,4 @@
-### Olá! Eu sou a Amanda 👋
+### Olá! Me chamo Amanda 👋
 
 - 🔭 Estudante ADS
 - 🌱 Eu estou estudando atualemnte
