@@ -6,9 +6,8 @@
 
 ## 👩‍💻 About me
 
-🎓 **Postgraduate Specialization in Software Engineering PUC Minas**
-
 💼 **NFS-e Technical Consultant at TecnoSpeed**  
+🎓 **Postgraduate Specialization in Software Engineering PUC Minas**
 🔗 Working daily with **APIs, integrations and SaaS environments**  
 📚 Studying **JavaScript, APIs, Databases and Git**  
 🚀 Curious by nature, focused on **clean code and real solutions**
