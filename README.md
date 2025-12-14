@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About me
 
-🎓 **Information Systems student at UEMS**  
+🎓 **Postgraduate Specialization in DevOps & Continuous Software Engineering — PUC Minas*  
 💼 **NFS-e Technical Consultant at TecnoSpeed**  
 🔗 Working daily with **APIs, integrations and SaaS environments**  
 📚 Studying **JavaScript, APIs, Databases and Git**  
