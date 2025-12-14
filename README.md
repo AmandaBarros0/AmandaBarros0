@@ -42,14 +42,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmandaBarros0&theme=dracula&row=1&no-bg=true&column=5" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <div align="center">
